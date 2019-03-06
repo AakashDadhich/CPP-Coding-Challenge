@@ -14,7 +14,7 @@ This repository contains the code for a client-server interaction in which the c
 
 5. It can be observed that the server will receive the message, and print out the hash value. This same hash value can then be observed in the client's window. 
 
-[Note: Occasionally the client's message will hang. Simply restart both the client & server and it will work as normal. ]
+[Note: On very rare occassions, the client's message will hang. Simply restart both the client & server and it will work as normal. ]
 
 # Original Briefing: 
 
@@ -22,7 +22,8 @@ Write two programs - server and client - in C or C++. They must implement the fo
  
 Server: 
 
-•	Listens for client connections o Accepts 20 concurrent client connections (within this limit other clients must not wait) 
+•	Listens for client connections 
+      o Accepts 20 concurrent client connections (within this limit other clients must not wait) 
 
 •	Reads a NULL ending ASCII string from the client 
 
