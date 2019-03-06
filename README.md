@@ -14,12 +14,11 @@ This repository contains the code for a client-server interaction in which the c
 
 5. It can be observed that the server will receive the message, and print out the hash value. This same hash value can then be observed in the client's window. 
 
-Note: Occasionally the client's message will hang. Simply restart both the client & server and it will work as normal.
+[Note: Occasionally the client's message will hang. Simply restart both the client & server and it will work as normal. ]
 
-Original Briefing: 
-Write two programs - server and client - in C or C++.  
- 
-They must implement the following behaviour: 
+# Original Briefing: 
+
+Write two programs - server and client - in C or C++. They must implement the following behaviour: 
  
 Server: 
 
