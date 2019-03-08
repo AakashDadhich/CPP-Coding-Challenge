@@ -1,4 +1,4 @@
-# CPP Coding Challenge
+# Client-Server Model
 
 This repository contains the code for a client-server interaction in which the client sends a plaintext message and receives the corresponding SHA-1 hash from the server. The original briefing can be seen below the build instructions. 
 
